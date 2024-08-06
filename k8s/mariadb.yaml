@@ -21,9 +21,9 @@ spec:
             - name: TZ
               value: Asia/Seoul
             - name: MARIADB_ROOT_PASSWORD
-              value: root
+              value: tkaqhdgkek!!
             - name: MARIADB_DATABASE
-              value: krampoline
+              value: sambong
             - name: MARIADB_DISABLE_UPGRADE_BACKUP
               value: '1'
           volumeMounts:
